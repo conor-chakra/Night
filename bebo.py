@@ -1,9 +1,10 @@
 seb = [ 1,2,3,4,5]
-for i in seb :
-    print(i*7)
+for i in seb:
+    print(i*58)
 
 
-if 20<10:
-    print ('dad is a baby')
-elif 3>2:
-    print ('baby dads babies are all babies')
+if 2>3:
+    print(' dad cannot eat any food except carrots')
+elif 47>7 :
+    print('hi peeps')
+
