@@ -6,4 +6,4 @@ if len (name)>20:
     print ('Your name must be under 20 letters')
     name = input ('Please enter your name ')
 else:
-        print('Welcome to the game '+ name)
+        print('Welcome to the game   '+ name)
